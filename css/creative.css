@@ -337,3 +337,11 @@ header.masthead p {
   text-align: center;
   color:  white;
 }
+
+.tela-total{
+  height: 100%;
+}
+
+.space-video{
+  margin-bottom: 5px;
+}
